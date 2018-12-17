@@ -1,0 +1,2 @@
+# rules
+simple game rules
